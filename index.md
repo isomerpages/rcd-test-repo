@@ -9,18 +9,18 @@ sections:
   - hero:
       title: Hero title
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/Misc/skyline.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: Highlight A
-          description: Important highlight A is important
+          description: Highlight A is important
           url: https://google.com
         - title: Highlight B
-          description: Important highlight B is equally important
+          description: Highlight B is also important
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Highlight C
+          description: Highlight A is important too
           url: /privacy/
   - infobar:
       title: Infobar title
@@ -39,4 +39,5 @@ sections:
       button: Infopic btn Name
       url: https://www.open.gov.sg/
       alt: Infopic Image alt text
+      image: /images/Misc/trolley.jpg
 ---
