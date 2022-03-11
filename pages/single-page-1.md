@@ -7,4 +7,4 @@ What's in a name?
 By any other name would smell as sweet
 * So Romeo would, were he not Romeo call'd, retain that dear perfection which he owes without that title. 
 
-*Romeo, doff thy name, and for that name which is no part of thee take all myself.*
+*Romeo, doff thy name, and for that name which is no part of thee take all [myself](https://en.wikipedia.org/wiki/Juliet).*
