@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Changed Title
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -41,3 +41,4 @@ sections:
       alt: Infopic Image alt text
       image: /images/Misc/trolley.jpg
 ---
+
