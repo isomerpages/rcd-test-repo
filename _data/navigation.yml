@@ -10,3 +10,7 @@ links:
     collection: collection
   - title: Res Room
     resource_room: true
+  - title: Single Page 3
+    url: /single-page-2
+  - title: Single Page 4
+    url: /single-page-4
