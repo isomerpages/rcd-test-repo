@@ -2,5 +2,6 @@ collections:
   collection:
     output: true
     order:
+      - Spew?/.keep
       - page/.keep
       - page/subpage.md
