@@ -1,4 +1,5 @@
 collections:
   stuff:
     output: true
-    order: []
+    order:
+      - Stuff?/.keep
