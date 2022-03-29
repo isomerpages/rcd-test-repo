@@ -2,4 +2,5 @@ collections:
   stuff:
     output: true
     order:
+      - Stuff?/NewPage.md
       - Stuff?/.keep
