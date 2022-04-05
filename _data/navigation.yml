@@ -2,12 +2,10 @@ logo: /images/Default/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Single Page 1
-    url: /single-page-1/
-  - title: Single Page 2
-    url: /single-page-2/
   - title: Collection
     collection: collection
+  - title: Collection2
+    collection: collection2
   - title: Res Room
     resource_room: true
   - title: Single Page 3
