@@ -1,4 +1,5 @@
 collections:
   collection2:
     output: true
-    order: []
+    order:
+      - single-page-1.md
