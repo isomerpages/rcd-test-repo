@@ -2,4 +2,5 @@ collections:
   collection2:
     output: true
     order:
+      - single-page-2.md
       - single-page-1.md
