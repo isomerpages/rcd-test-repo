@@ -9,8 +9,6 @@ links:
     sublinks:
       - title: Collection 2
         url: /coll2
-  - title: Collection2
-    collection: collection2
   - title: Res Room
     resource_room: true
   - title: Single Page 3
