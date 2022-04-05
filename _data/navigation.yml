@@ -4,6 +4,11 @@ links:
     url: /contact-us/
   - title: Collection
     collection: collection
+  - title: Submenu
+    url: /coll2submenu
+    sublinks:
+      - title: Collection 2
+        url: /coll2
   - title: Collection2
     collection: collection2
   - title: Res Room
