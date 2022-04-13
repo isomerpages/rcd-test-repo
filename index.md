@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Hero title
-      subtitle: Hero subtitlee
+      subtitle: Hero subtitle
       background: /images/Misc/skyline.jpg
       button: Contact Us
       url: /contact-us/
