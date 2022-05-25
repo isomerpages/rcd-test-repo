@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
+      title: Hero title 1
       subtitle: Hero subtitle
       background: /images/Misc/skyline.jpg
       button: Contact Us
