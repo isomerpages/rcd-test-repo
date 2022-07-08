@@ -1,5 +1,4 @@
 collections:
   collection-3:
     output: true
-    order:
-      - Example Title 4.md
+    order: []
